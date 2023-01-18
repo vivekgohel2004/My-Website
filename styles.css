@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    font-family: cursive;
+}
+
+div.container {
+    text-align: center;
+    background-color: #f2faf8;
+    position: relative;
+}
+
+.cloud-up {
+    padding-top: 50px;
+    position: absolute;
+    left: 880px;
+}
+
+.cloud-down {
+    position: absolute;
+    padding-top: 13px;
+    left: 200px;
+}
+
+h1 {
+    padding-top: 100px;
+    margin: 0;
+    color: #66BFBF;
+}
+
+h1:hover {
+    color: #071d6c;
+    cursor: pointer;
+}
+
+h2:hover {
+    background-color: #f2faf8;
+    cursor: pointer;
+}
+
+p.mydetails {
+    color: #66BFBF;
+    line-height: 40px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+div.container1 {
+    position: relative;
+    text-align: center;
+}
+
+.myimg {
+    width: 18%;
+    height: 18%;
+    padding-top: 80px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 200%;
+    margin-bottom: 10px;
+}
+
+p {
+    line-height: 2;
+    color: #071d6c;
+}
+
+p.mydetails {
+    width: 422px;
+    margin: auto;
+    color: #071d6c;
+}
+
+hr {
+    border: none;
+    border-top: 10px dotted #b4cece;
+    color: #fff;
+    background-color: white;
+    height: 1px;
+    width: 10%;
+    margin: 100px auto;
+}
+
+div.container2 {
+    text-align: center;
+    position: relative;
+}
+
+div.container3 {
+    text-align: center;
+    position: relative;
+    width: 50%;
+    margin: auto;
+}
+
+.skill-row {
+    width: 60%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 30px;
+}
+
+.computer {
+    width: 23%;
+    float: left;
+    margin-right: 50px;
+}
+
+.chillies {
+    width: 23%;
+    float: right;
+    margin-left: 50px;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+h3:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+button {
+    background-image: linear-gradient(#11cdd4, #3498db);
+    border: 0px;
+    border-radius: 8px;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3% auto 15% auto;
+}
+
+button:hover {
+    background-image: linear-gradient(#30e3cb, #2bc4ad);
+    cursor: pointer;
+}
+
+div.footer {
+    background-color: #66BFBF;
+    position: relative;
+    text-align: center;
+    padding: 50px 0px 20px;
+}
+
+a {
+    margin: 1px 15px;
+    text-decoration: none;
+    color: #015892;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    cursor: pointer;
+    color: white;
+}
+
+p.caption {
+    color: #fff;
+    font-size: 13px;
+    padding: 20px 0 0px 0;
+    margin-bottom: 0;
+}
