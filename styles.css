@@ -165,3 +165,27 @@ p.caption {
     padding: 20px 0 0px 0;
     margin-bottom: 0;
 }
+
+@media screen and (max-width:480px){
+    .cloud-up {
+        padding-top: 20px; 
+        position: absolute;
+        left: 230px;
+    }
+
+
+    .cloud-down {
+        position: absolute;
+        padding-top: 10px;
+        left: 10px;
+        top: 200px;
+    }
+
+    .mountain{
+        width: 100%;
+    }
+
+    p.mydetails {
+        width: auto;
+    }
+}
